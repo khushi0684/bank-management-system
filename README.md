@@ -1,1 +1,2 @@
 # bank-management-system
+The Bank Management System is a web-based app built with Python and Flask. It simplifies banking tasks by providing features like creating accounts, processing transactions, checking balances, and managing customers. This system improves efficiency, accuracy, and security in banking operations. Flask, being lightweight and flexible, is perfect for creating scalable and robust applications. The result is a smooth, user-friendly experience that makes managing banking tasks much easier and more reliable for both customers and bank staff.
